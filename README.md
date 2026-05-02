@@ -15,6 +15,10 @@ type to fit the data.
 4. Store the results in an array
 5. Represent the result in graphical representation as given below.
 ### PROGRAM:
+```
+NAME:Thejashree S
+REGNO: 212224240175
+```
 ```py
 import pandas as pd
 import matplotlib.pyplot as plt
